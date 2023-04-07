@@ -38,16 +38,19 @@ This is a website with fully custumized 3-D T-Shirt modal to custumize our own T
 #### ColorPicker
 
 Changes the color of T-Shirt model
+
 ![Screenshot](./ColorPicker.png)
 
 #### ColorPicker
 
 To pick image from computer to use as Logo or Texture of T-Shirt model
+
 ![Screenshot](./FilePicker.png)
 
 #### ColorPicker
 
 Asks AI to generate Logo or Texture of T-Shirt model
+
 ![Screenshot](./DalleAiPicker.png)
 
 ### ------------------------------------------------------
