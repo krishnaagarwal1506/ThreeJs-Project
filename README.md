@@ -2,7 +2,15 @@
 
 ### [Webpage LINK](https://tshirt-designer.onrender.com/)
 
-This is a website with fully custumized 3-D T-Shirt modal to custumize our own T-Shirt
+✨✨✨This is a website with fully custumized 3-D T-Shirt modal to custumize our own T-Shirt.
+
+### ----------------------------------------------------
+
+🔥🔥This Project is inspired from @javascriptmastery youtube channel.
+
+##### [LINK](https://www.youtube.com/watch?v=ZqEa8fTxypQ)
+
+### ----------------------------------------------------
 
 ### Custumizable Elements On 3-D Tshirt:-
 
